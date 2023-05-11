@@ -1,0 +1,13 @@
+#entete,#jumbotron{
+    font-family: Helvetica, sans-serif;
+    size: 12px;
+    letter-spacing: 1px;
+    font-weight: 400;
+    line-height: 54px;
+}
+#separator{
+    width: 10%;
+    background-color: red;
+    height: 3px;
+    border-radius: 10px;
+}
